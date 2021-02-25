@@ -10,6 +10,8 @@ For a more robust version, try this one: [jwt-tableau-broker](https://github.com
 
 Obtain  a ticket:
 
+**First be sure you have set the Tableau Server URL correctly in the config.js. Do not forget the port if not 80 or 433 :-)**
+
 GET http://tabIP:2999/api/getTicket?username=TAB_USER_NAME
 
 
