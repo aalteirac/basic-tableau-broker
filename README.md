@@ -1,5 +1,5 @@
 
-# JWT-tableau-broker
+# Basic-tableau-broker
 
 A little sample showing a ticket broker designed to be hosted on Tableau Server (so the IP to trust is 127.0.0.1).
 Can be useful in cloud env where all IP's are dynamic.
