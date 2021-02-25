@@ -13,7 +13,7 @@ Obtain  a ticket:
 GET http://tabIP:2999/api/getTicket?username=TAB_USER_NAME
 
 
-![ScreenShot](https://raw.githubusercontent.com/aalteirac/jwt-tableau-broker/master/two.png)
+![ScreenShot](https://raw.githubusercontent.com/aalteirac/basic-tableau-broker/master/two.png)
 
 ### INSTALL
 Run the nodejs server:
