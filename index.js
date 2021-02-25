@@ -19,7 +19,7 @@ app.get('/', function(req, res) {
   res.send('App is running on http://localhost:2999/');
 });
 
-authRoutes.get('/getTicket',async (req,res)=>{
+app.get('/api/getTicket',async (req,res)=>{
   try {
     var tck=await getTabTicket(config.tabserver,req.query.username);
     res.json(tck)
