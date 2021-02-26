@@ -6,6 +6,8 @@ Can be useful in cloud env where all IP's are dynamic.
 **This broker is NOT secured**
 For a more robust version, try this one: [jwt-tableau-broker](https://github.com/aalteirac/jwt-tableau-broker)
 
+Learn about the concept here: [Tableau Broker](https://anthony-alteirac.medium.com/tableau-trusted-authentication-the-ticket-broker-cloud-friendly-709789942aa3)
+
 ## USAGE
 
 Obtain  a ticket:
